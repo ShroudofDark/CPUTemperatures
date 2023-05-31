@@ -1,3 +1,12 @@
+# Overview
+
+Program will create linear interpolations and least square approximation of provided temperatures. Project description can be found in https://github.com/ShroudofDark/CPUTemperatures/blob/main/CPUTemps-SemesterProject.pdf
+
+All software was authored by me, except for parseTemps.h which was provided by the professor Thomas Kennedy. 
+
+Linear Interpolation: https://en.wikipedia.org/wiki/Linear_interpolation
+Least Squares: https://en.wikipedia.org/wiki/Least_squares
+
 # Requirements
 
 	* Make
